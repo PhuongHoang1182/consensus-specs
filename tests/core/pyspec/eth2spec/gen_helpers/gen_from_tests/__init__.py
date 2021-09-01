@@ -4,3 +4,6 @@ print("Phuong Hoang is here")
 # git add .
 # git commit -m "remove ld" 
 # git push
+
+
+#git pull origin master
